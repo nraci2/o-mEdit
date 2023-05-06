@@ -3,7 +3,7 @@ Osu!mania Skin Editing Tool
 
 What is the project ?
 
-The o!mEdit project is a project to build a functioning osu!mania skin editing tool that will make customizing more accessible for newer players and also faster for experienced players. This project will be using Java for all parts of the project (Gui/Application).
+The o!mEdit project is a project to build a functioning osu!mania skin editing tool that will make customizing more accessible for newer players and also faster for experienced players. This project will be using Python for all parts of the project (Gui/Application).
 
 What is the MVP?
 
